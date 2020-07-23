@@ -69,6 +69,12 @@ int main(int argc, const char * argv[]) {
             }
         }
         
+        // MARK: Step 6
+        
+//        int totalNumberOfLowLevelAgents = 0;
+//        int totalNumberOfMidLevelAgents = 0;
+//        int totalNumberOfHighLevelAgnets = 0;
+        
       
         
     }
